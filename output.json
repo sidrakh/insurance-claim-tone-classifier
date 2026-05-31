@@ -1,0 +1,92 @@
+[
+    {
+        "claim_id": 1,
+        "description": "While backing out of a crowded mall parking lot, I accidentally hit a concrete pole that was difficult to see due to which my rear side of the car is dented.",
+        "classification": {
+            "claim_type": "Motor",
+            "tone": "Calm",
+            "legal_action": "No"
+        }
+    },
+    {
+        "claim_id": 2,
+        "description": "During a weekend family trip, a pipe burst in the upstairs bathroom and water leaked into the living room below, damaging furniture and flooring.",
+        "classification": {
+            "claim_type": "Property",
+            "tone": "Calm",
+            "legal_action": "No"
+        }
+    },
+    {
+        "claim_id": 3,
+        "description": "A delivery boy claims he twisted his ankle after stepping into a pothole in the parking area of my business property.",
+        "classification": {
+            "claim_type": "Liability",
+            "tone": "Frustrated",
+            "legal_action": "Yes"
+        }
+    },
+    {
+        "claim_id": 4,
+        "description": "I reported my motorcycle theft three days ago and still have not received any guidance on the next steps. I need help urgently.",
+        "classification": {
+            "claim_type": "Motor",
+            "tone": "Urgent",
+            "legal_action": "No"
+        }
+    },
+    {
+        "claim_id": 5,
+        "description": "Strong winds blew part of my backyard shed onto my neighbor's garden, damaging several decorative items.",
+        "classification": {
+            "claim_type": "Property",
+            "tone": "Calm",
+            "legal_action": "No"
+        }
+    },
+    {
+        "claim_id": 6,
+        "description": "While my dog was being walked by a family member, it knocked over a cyclist who is now requesting compensation for medical expenses.",
+        "classification": {
+            "claim_type": "Liability",
+            "tone": "Frustrated",
+            "legal_action": "Yes"
+        }
+    },
+    {
+        "claim_id": 7,
+        "description": "Someone scraped the side of my parked vehicle overnight. I am frustrated because this is the second incident this year and there were no witnesses.",
+        "classification": {
+            "claim_type": "Property",
+            "tone": "Frustrated",
+            "legal_action": "No"
+        }
+    },
+    {
+        "claim_id": 8,
+        "description": "An electrical surge after a power outage damaged several appliances in my home, including the refrigerator and washing machine.",
+        "classification": {
+            "claim_type": "Property",
+            "tone": "Calm",
+            "legal_action": "No"
+        }
+    },
+    {
+        "claim_id": 9,
+        "description": "The contractor working on my house accidentally cracked a window belonging to the property next door. The neighbor has threatened to take legal action if the matter is not resolved.",
+        "classification": {
+            "claim_type": "Liability",
+            "tone": "Calm",
+            "legal_action": "Yes"
+        }
+    },
+    {
+        "claim_id": 10,
+        "description": "After a severe storm, I discovered damage to both my detached garage and the vehicle parked inside it. I am unsure which coverage applies.",
+        "classification": {
+            "claim_type": "Property",
+            "tone": "Calm",
+            "legal_action": "No"
+        }
+    }
+]
